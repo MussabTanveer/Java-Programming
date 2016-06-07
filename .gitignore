@@ -1,0 +1,5 @@
+# The following folders will be ignored
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Task-House/
